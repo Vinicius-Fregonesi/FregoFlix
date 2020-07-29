@@ -1,0 +1,147 @@
+{
+  "categorias": [
+    {
+      "titulo": "Sertanejo",
+      "link": "https://www.youtube.com/watch?v=eFOIaV0OpBc&list=RDeFOIaV0OpBc&start_radio=1&t=1",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "As melhores músicas do sertanejo universitário",
+        "url": "https://www.youtube.com/watch?v=eFOIaV0OpBc&list=RDeFOIaV0OpBc&start_radio=1&t=1"
+      },
+      "videos": [
+        {
+          "titulo": "O que te faz bem",
+          "url": "https://www.youtube.com/watch?v=UtF6Jej8yb4"
+        },
+        {
+          "titulo": "Cristiano Araújo",
+          "url": "https://www.youtube.com/watch?v=YeqgMW1_gA4"
+        },
+        {
+          "titulo": "Gustavo Lima",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+        },
+        {
+          "titulo": "Jorge e Matheus",
+          "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM"
+        },
+        {
+          "titulo": "Zé neto e Cristiano",
+          "url": "https://www.youtube.com/watch?v=jat_gYhDqZ8"
+        },
+        {
+          "titulo": "Henrique e Juliano",
+          "url": "https://www.youtube.com/watch?v=S1VqBykbfv0"
+        }       
+      ]
+    },
+    {
+      "titulo": "Eletrônica",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Secção de músicas eletrônicas",
+        "url": "https://www.youtube.com/watch?v=2zToEPpFEN8&list=PLCwAHfhr-Gc_BrBUaRXndbPNP7Lnh_mMV"
+      },
+      "videos": [
+        {
+          "titulo": "Avicii",
+          "url": "https://www.youtube.com/watch?v=IcrbM1l_BoI"
+        },
+        {
+          "titulo": "David Guetta",
+          "url": "https://www.youtube.com/watch?v=3c2nTiN152I"
+        },
+        {
+          "titulo": "Alok",
+          "url": "https://www.youtube.com/watch?v=qXy0AgoCzyE"
+        },
+        {
+          "titulo": "Cat Dealers",
+          "url": "https://www.youtube.com/watch?v=XNFuxtvsgF0"
+        },
+        {
+          "titulo": "Marshmello",
+          "url": "https://www.youtube.com/watch?v=ALZHF5UqnU4"
+        }
+      ]
+    },
+    {
+      "titulo": "Rock",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Secção de músicas de rock nacional e internacional",
+        "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU&list=PL_Q15fKxrBb7wo5SRxHbhk6ZL6zMYh5tH"
+      },
+      "videos": [
+        {
+          "titulo": "Bom Jovi",
+          "url": "https://www.youtube.com/watch?v=lDK9QqIzhwk&list=RDEMwFsYW_I6KW9l_k_U6XwJXQ&start_radio=1"
+        },
+        {
+          "titulo": "Red Hot Chilli Peppers",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk"
+        },
+        {
+          "titulo": "Linkin Park",
+          "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU"
+        },
+        {
+          "titulo": "Legião Urbana",
+          "url": "https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLd6gvRUA_Kl98_r_iTzA44lDneeoX_7jo"
+        }
+      ]
+    },
+    {
+      "titulo": "Funk",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Secção de músicas de funk",
+        "url": "https://www.youtube.com/watch?v=UR7O8IekguY&list=PLA6B239361CC92D14"
+      },
+      "videos": [
+        {
+          "titulo": "Mc Niak",
+          "url": "https://www.youtube.com/watch?v=UR7O8IekguY"
+        },
+        {
+          "titulo": "Mc Neguinho do Kaxeta",
+          "url": "https://www.youtube.com/watch?v=AXeOZ5sdWXc"
+        },
+        {
+          "titulo": "Mc Lelê JP",
+          "url": "https://www.youtube.com/watch?v=ZoZVaYjo56I"
+        }
+      ]
+    },
+    {
+      "titulo": "Pop",
+      "cor": "red",
+      "link_extra": {
+        "text": "Secção de músicas populares",
+        "url": "https://www.youtube.com/watch?v=Nj2U6rhnucI&list=PL1jMjCxDqxLvomtUMbqa_4pAjMmzpfgUy"
+      },
+      "videos": [
+        {
+          "titulo": "Wiz Khalifa",
+          "url": "https://www.youtube.com/watch?v=RgKAFK5djSk&list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh"
+        },
+        {
+          "titulo": "Dua Lipa",
+          "url": "https://www.youtube.com/watch?v=Nj2U6rhnucI&list=PL1jMjCxDqxLvomtUMbqa_4pAjMmzpfgUy"
+        },
+        {
+          "titulo": "Maroon 5",
+          "url": "https://www.youtube.com/watch?v=09R8_2nJtjg&list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh"
+        },
+        {
+          "titulo": "One Republic",
+          "url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+        },
+        {
+          "titulo": "Imagine Dragons",
+          "url": "https://www.youtube.com/watch?v=I-QfPUz1es8"
+        }
+      ]
+    }
+  ]
+}
